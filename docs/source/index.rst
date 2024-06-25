@@ -12,6 +12,7 @@ Welcome to testkit's documentation!
 
    getting_started
    api
+   about
 
 
 

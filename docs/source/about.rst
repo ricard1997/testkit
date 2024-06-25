@@ -1,7 +1,7 @@
-Getting Started
+About
 ===============
 
-This page details how to get started with testkit. 
+This is an about page copied from getting started
 
 This is an update of the getting start page
 
